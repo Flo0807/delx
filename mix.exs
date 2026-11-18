@@ -47,7 +47,7 @@ defmodule Delx.MixProject do
   end
 
   defp description do
-    "An Elixir library to make function delegation testable."
+    "(Deprecated, unmaintained) An Elixir library to make function delegation testable."
   end
 
   defp package do
